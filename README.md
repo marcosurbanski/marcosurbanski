@@ -8,7 +8,7 @@ class Programmer:
         print("Passionate about Linux, Automation, and Clean Code 🚀")
         print("Let's build something amazing together! 💻")
 
-# Instanciando
+# start
 urbans = Programmer()
          
 
