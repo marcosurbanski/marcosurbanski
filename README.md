@@ -1,11 +1,16 @@
 # Olá, eu sou Marcos Antonio Urbanski
    
-```ruby 
-class Programmer
-   
-       def initialize()
-           puts "### Hi there, i'm Marcos Antonio Urbanski 👋"
-           
+```python 
+class Programmer:
+    def __init__(self):
+        print("### Hi there, I'm Marcos Antonio Urbanski 👋")
+        print("I'm a DevOps | SRE | Backend Developer")
+        print("Passionate about Linux, Automation, and Clean Code 🚀")
+        print("Let's build something amazing together! 💻")
+
+# Instanciando
+urbans = Programmer()
+         
 
 ```
 
