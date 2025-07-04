@@ -3,14 +3,23 @@
 ```python 
 class Programmer:
     def __init__(self):
-        print("### Hi there, I'm Marcos Antonio Urbanski 👋")
-        print("I'm a DevOps | SRE | Backend Developer")
-        print("Passionate about Linux, Automation, and Clean Code 🚀")
-        print("Let's build something amazing together! 💻")
+        self.name = "Marcos Antonio Urbanski"
+        self.role = ["DevOps", "SRE", "Backend Developer"]
+        self.stack = ["Python", "Linux", "Docker", "CI/CD"]
+        self.mission = "Build clean, scalable, and meaningful solutions 🚀"
 
-# start
+        self.intro()
+
+    def intro(self):
+        print(f"### Hi there, I'm {self.name} 👋")
+        print(f"I'm a {' | '.join(self.role)}")
+        print("⚙️ Passionate about Linux, Automation, and Clean Code")
+        print("📦 Current project: A private video-course platform with Django")
+        print("🌐 Visit: www.urbpy.com.br")
+        print("💡 Let's build something amazing together!")
+
+# Launch
 urbans = Programmer()
-         
 
 ```
 
