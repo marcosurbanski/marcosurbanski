@@ -1,12 +1,12 @@
-# Olá, eu sou Marcos Antonio Urbanski
+# Hello, i'm Marcos Antonio Urbanski
 
    
 ```python 
 class Programmer:
     def __init__(self):
         self.name = "Marcos Antonio Urbanski"
-        self.role = ["DevOps", "SRE", "Backend Developer"]
-        self.stack = ["Python", "Linux", "Docker", "CI/CD"]
+        self.role = ["Backend Developer"]
+        self.stack = ["Python", "Django", "Linux", "CI/CD"]
         self.mission = "Build clean, scalable, and meaningful solutions 🚀"
 
         self.intro()
@@ -14,7 +14,7 @@ class Programmer:
     def intro(self):
         print(f"### Hi there, I'm {self.name} 👋")
         print(f"I'm a {' | '.join(self.role)}")
-        print("⚙️ Passionate about Linux, Automation, and Clean Code")
+        print("⚙️ Passionate about Python, Automation, and Clean Code")
         print("📦 Current project: A private video-course platform with Django")
         print("🌐 Visit: www.urbpy.com.br")
         print("💡 Let's build something amazing together!")
