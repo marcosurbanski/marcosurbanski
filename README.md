@@ -1,4 +1,10 @@
 # Olá, eu sou Marcos Antonio Urbanski
+
+🚀 Under active development
+
+<a href="https://github.com/marcosurbanski/urbpy"> <img src="https://img.shields.io/github/stars/marcosurbanski/urbpy?style=for-the-badge" alt="Repo stars" /> <img src="https://img.shields.io/github/forks/marcosurbanski/urbpy?style=for-the-badge" alt="Repo forks" /> </a>
+
+
    
 ```python 
 class Programmer:
