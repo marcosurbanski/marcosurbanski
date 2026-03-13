@@ -33,7 +33,7 @@ Backend Developer building clean, scalable systems with Python and Django.
 
 <p>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=marcosurbanski&show_icons=true&hide_border=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosurbanski&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosurbanski&layout=compact&hide_border=true&hide=Visual%20Studio%20Solution,CMake,Makefile&langs_count=8" />
 </p>
 
 ## Contact
