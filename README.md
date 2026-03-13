@@ -32,8 +32,8 @@ Backend Developer building clean, scalable systems with Python and Django.
 ## GitHub
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=urbanskii&show_icons=true&hide_border=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=urbanskii&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=marcosurbanski&show_icons=true&hide_border=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosurbanski&layout=compact&hide_border=true" />
 </p>
 
 ## Contact
